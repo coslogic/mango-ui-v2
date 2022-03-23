@@ -1,6 +1,6 @@
 import { ChartTradeType } from '../@types/types'
 
-const baseUrl = 'https://serum-history.herokuapp.com'
+const baseUrl = 'https://sqid.app'
 export default class ChartApi {
   static URL = `${baseUrl}/`
 
